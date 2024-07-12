@@ -101,6 +101,10 @@ form .spn-regs{
     font-size: 14px;
 }
 
+#big{
+    font-size: 100px;
+}
+
 form .spn-regs a{
     color: #8e1df7;
     text-decoration: none;
